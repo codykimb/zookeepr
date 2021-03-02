@@ -135,6 +135,15 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Cody",
+      "species": "Armadillo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
